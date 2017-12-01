@@ -1,2 +1,2 @@
 # hello-world
-Another repo
+Another repo by Reiwoldt as a learning exercise
